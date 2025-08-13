@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273862348012",
+    "project_id": "tast3-c07df",
+    "storage_bucket": "tast3-c07df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273862348012:android:91bd45f01d3d7e92c3e9c9",
+        "android_client_info": {
+          "package_name": "com.example.task3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbts5kLJzVk1t1anB9FaG8TjERl7538A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
