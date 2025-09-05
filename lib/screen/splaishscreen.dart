@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:task3/loingscreen.dart';
-import 'package:task3/signup.dart';
+import 'package:task3/saervice/loingscreen.dart';
+import 'package:task3/saervice/signup.dart';
 
 class splaishscreen extends StatefulWidget {
   const splaishscreen({super.key});
